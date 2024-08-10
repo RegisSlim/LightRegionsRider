@@ -1,5 +1,4 @@
 # Light Regions
-Additional info for Light Regions.
 
 ## What is Light Regions?
 
@@ -23,4 +22,7 @@ It will not auto-generate all of your regions. While the package offers tools to
 Lights managed by Light Regions aren't intended to be moved, although in some cases it won't affect anything.
 
 ## What comes with your purchase?
-Dedicated support, perfomance gains, and the satisfaction of helping a tiny (And oh so grateful) dev team along the way.
+Dedicated support, frequent improvements, perfomance gains, and the satisfaction of helping a tiny (And oh so grateful) dev team along the way.
+
+## Support:
+https://discord.com/invite/gseukSRpb7
