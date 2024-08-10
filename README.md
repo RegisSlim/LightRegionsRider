@@ -2,7 +2,7 @@
 
 ## What is Light Regions?
 
-Light Regions is a powerful optimization tool for real-time lights. Light Regions is intended for use with HDRP but supports URP as well.
+Light Regions is a powerful optimization tool for real-time lights built for HDRP & URP.
 
 ## How does it work?
 
